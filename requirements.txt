@@ -3,3 +3,4 @@ numpy
 Pillow
 jproperties
 opencv-python
+flake8
